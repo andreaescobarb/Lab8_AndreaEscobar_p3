@@ -5,7 +5,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-#include "Range.h"
 
 class Magikoopa: public Range{
 private:
